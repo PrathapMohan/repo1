@@ -1,0 +1,10 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is 2A8F-7520
+
+ Directory of F:\Jenkins\GitProject
+
+02/10/2019  11:55 AM    <DIR>          .
+02/10/2019  11:55 AM    <DIR>          ..
+02/10/2019  11:55 AM                 0 newfile.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  349,212,811,264 bytes free
